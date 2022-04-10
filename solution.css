@@ -8,11 +8,11 @@ a.button {
     margin: auto;
     border: 5px solid black;
     width: 33%;
-    padding: 30px;
+    padding: 20px;
 }
 
 li:not(:last-child) {
-    margin-bottom: 25px;
+    margin-bottom: 100px;
 }
 
 body {
@@ -25,7 +25,7 @@ h1 {
     margin: auto;
     border: 5px solid black;
     width: 33%;
-    padding: 30px;
+    padding: 40px;
 
 
 }
