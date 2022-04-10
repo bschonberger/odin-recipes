@@ -1,9 +1,26 @@
 
-.fancy {
+a.button {
   font-family: Helvetica, "Times New Roman", sans-serif;
-  font-size: 28px;
-  background-color: black;
-  color: white;
+  font-size: 30px;
+  background-color: white;
+  color: black;
+}
+
+li:not(:last-child) {
+    margin-bottom: 25px;
+}
+
+body {
+    background: silver;
+}
+
+h1 {
+    font-size: 75px;
+    text-align: center;
+    margin: auto;
+    border: 5px solid black;
+    width: 33%;
+    padding: 30px;
 
 
 }
