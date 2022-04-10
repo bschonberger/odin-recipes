@@ -4,6 +4,11 @@ a.button {
   font-size: 30px;
   background-color: white;
   color: black;
+  text-align: center;
+    margin: auto;
+    border: 5px solid black;
+    width: 33%;
+    padding: 30px;
 }
 
 li:not(:last-child) {
